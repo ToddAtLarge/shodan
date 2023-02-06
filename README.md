@@ -1,3 +1,3 @@
-# shodan-dorks
+# Shodan
 
-This is just a simple repo of Shodan dorks that I've found useful or fun to just browse.
+A repo I've started to log some Shodan shenanigans.
